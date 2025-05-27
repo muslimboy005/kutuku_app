@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/akobir/snap/flutter/common/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/akobir/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/akobir/Downloads/akobir_kuku_app/cubit_lesson/android/app/.cxx/Debug/3b14235t/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/akobir/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/akobir/Downloads/akobir_kuku_app/cubit_lesson/android/app/.cxx/Debug/3b14235t/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
