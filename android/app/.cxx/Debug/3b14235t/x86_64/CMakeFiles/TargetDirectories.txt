@@ -1,0 +1,2 @@
+/home/akobir/Downloads/akobir_kuku_app/cubit_lesson/android/app/.cxx/Debug/3b14235t/x86_64/CMakeFiles/edit_cache.dir
+/home/akobir/Downloads/akobir_kuku_app/cubit_lesson/android/app/.cxx/Debug/3b14235t/x86_64/CMakeFiles/rebuild_cache.dir
